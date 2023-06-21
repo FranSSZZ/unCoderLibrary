@@ -1,0 +1,11 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}New Biometric{% endblock %}
+
+{% block body %}
+    <h1>Create new Biometric</h1>
+
+    {{ include('biometric/_form.html.twig') }}
+
+    <a href="{{ path('app_biometric_index') }}">back to list</a>
+{% endblock %}

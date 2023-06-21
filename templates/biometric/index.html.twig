@@ -1,0 +1,39 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Biometric index{% endblock %}
+
+{% block body %}
+    <h1>Biometric index</h1>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nombre</th>
+                <th>C_ojos</th>
+                <th>C_cabello</th>
+                <th>actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for biometric in biometrics %}
+            <tr>
+                <td>{{ biometric.id }}</td>
+                <td>{{ biometric.nombre }}</td>
+                <td>{{ biometric.cOjos }}</td>
+                <td>{{ biometric.cCabello }}</td>
+                <td>
+                    <a href="{{ path('app_biometric_show', {'id': biometric.id}) }}">show</a>
+                    <a href="{{ path('app_biometric_edit', {'id': biometric.id}) }}">edit</a>
+                </td>
+            </tr>
+        {% else %}
+            <tr>
+                <td colspan="5">no records found</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <a href="{{ path('app_biometric_new') }}">Create new</a>
+{% endblock %}

@@ -1,0 +1,13 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Edit Biometric{% endblock %}
+
+{% block body %}
+    <h1>Edit Biometric</h1>
+
+    {{ include('biometric/_form.html.twig', {'button_label': 'Update'}) }}
+
+    <a href="{{ path('app_biometric_index') }}">back to list</a>
+
+    {{ include('biometric/_delete_form.html.twig') }}
+{% endblock %}
