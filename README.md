@@ -53,3 +53,7 @@ Relación 2
 ![www](https://github.com/FranSSZZ/unCoderLibrary/assets/126780440/9281fe6e-5e53-40cf-b939-0c276df757da)
 
 
+![image](https://github.com/FranSSZZ/unCoderLibrary/assets/126780440/a4fcf233-4cc7-4805-96a6-bc953b490ace)
+
+![image2](https://github.com/FranSSZZ/unCoderLibrary/assets/126780440/c8725c87-42a1-46fa-a0e7-170bba3d1a60)
+
