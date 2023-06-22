@@ -1,5 +1,7 @@
 # unCoderLibrary
 
+Franci, Melanie, Kibria y Gabriela
+
 CONTEXTO:
 
 1 - Crear un mínimo de dos entidades en Symfony con su controlador, formulario, repositorio, etc.
