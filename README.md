@@ -13,6 +13,7 @@ CONTEXTO:
 5 - EXTRA: Que tenga test
 
 
+
 DOCUMENTACIÓN:
 
 Symfony, High Performance PHP Framework for Web Development
@@ -23,10 +24,28 @@ Symfony 5 La Vía Rápida | Paso 1 - Revisando tu entorno de trabajo - 2020
 
 Ejemplo CRUD con Symfony 5
 
-Knight Lab's SQL Murder Mystery
+Knight Lab's SQL
+urder Mystery
 
+_______________________________________________________________________________________________________________________________________________________________
 HERRAMIENTAS:
 
 Symfony 5.4
 Bootstrap
 Enlace con código configurabçe para filtro: https://mega.nz/folder/q1dWWbJB#SZ4Hj-w7RgnOOXjgLNVdPw
+
+________________________________________________________________________________________________________________________________________________________________
+HISTÓRIA
+
+Testigo 1 - Nacyla menciona que vio a un hombre sospechoso de aspecto robusto merodeando cerca de la escena del crimen. El hombre llevaba una gorra oscura que ocultaba parcialmente su rostro, con unos grandes bolsos negros. Aunque asegura recordar que el color de su credencial era rojo, este es solo para personas afiliadas hace mucho tiempo. Además, Nacyla recuerda que durante la tarde del crimen, vio a una mujer con un cabello distintivo cerca de la biblioteca, pero por la conmoción del momento no recuerda algo más exacto de la persona. Ella llevaba una credencial de biblioteca que colgaba de su cuello con un diseño peculiar, con una imagen de un búho rodeado de libros. La mujer llevaba una mochila y zapatillas cómodas, y parecía estar observando a alguien en particular con una mirada inquisitiva. Testigo 2 –Juanan escuchó un grito agudo proveniente de la dirección de la biblioteca antes del crimen. El recuerda haber visto a una mujer apresurada salir del lugar, y notó que llevaba una bufanda de colores vibrantes envuelta alrededor de su muñeca. Además, Juanan menciona haber visto a la misma mujer cerca del parque central antes del crimen. La mujer llevaba una camiseta con un estampado de gatos y una mochila. La mujer parecía nerviosa y constantemente se tocaba el pelo mientras caminaba por la zona. Aunque asegura recordar que el color de su credencial era rojo, este es solo para personas afiliadas hace mucho tiempo.
+
+
+
+Los involucrados se conocen de la biblioteca y tienen pseudónimos similares que lo diferencia por número y tienen que ir obligatoriamente a otra entidad a buscar otra clave que los distinga, como  el tatuaje. Uno de los testigos puede decir que es un tatuaje tribal y estaba en unos de los brazos (ejemplo).
+
+
+Relación
+
+![www](https://github.com/FranSSZZ/unCoderLibrary/assets/126780440/9281fe6e-5e53-40cf-b939-0c276df757da)
+
+
