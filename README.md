@@ -27,7 +27,7 @@ Symfony 5 La Vía Rápida | Paso 1 - Revisando tu entorno de trabajo - 2020
 Ejemplo CRUD con Symfony 5
 
 Knight Lab's SQL
-urder Mystery
+murder Mystery
 
 _______________________________________________________________________________________________________________________________________________________________
 HERRAMIENTAS:
