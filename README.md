@@ -29,3 +29,4 @@ HERRAMIENTAS:
 
 Symfony 5.4
 Bootstrap
+Enlace con código configurabçe para filtro: https://mega.nz/folder/q1dWWbJB#SZ4Hj-w7RgnOOXjgLNVdPw
